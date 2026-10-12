@@ -8,3 +8,7 @@ pillow>=12.1.1
 fonttools>=4.60.0
 filelock>=3.20.3
 Pygments==2.20.0
+langchain>=0.3,<2
+langchain-core>=0.3,<2
+langchain-ollama>=0.2,<2
+streamlit>=1.40,<2
